@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:10:19:55 +0530] "GET /lms-webapp HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:10:19:57 +0530] "GET /lms-webapp/ HTTP/1.1" 200 1477 http-bio-8080-exec-3 1162
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:10:19:57 +0530] "GET /lms-webapp/signin.css HTTP/1.1" 404 993 http-bio-8080-exec-2 4
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:10:19:57 +0530] "GET /lms-webapp/css/bootstrap.min.css HTTP/1.1" 200 142041 http-bio-8080-exec-4 10
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:10:19:57 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:10:20:29 +0530] "GET /lms-webapp/css/bootstrap.min.css HTTP/1.1" 304 - http-bio-8080-exec-7 5
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:10:20:56 +0530] "GET /lms-webapp/ HTTP/1.1" 200 1470 http-bio-8080-exec-7 208
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:10:20:56 +0530] "GET /lms-webapp/signin.css HTTP/1.1" 404 993 http-bio-8080-exec-7 2
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:10:24:13 +0530] "GET /lms-webapp/ HTTP/1.1" 200 1509 http-bio-8080-exec-6 192
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:10:24:13 +0530] "GET /lms-webapp/signin.css HTTP/1.1" 404 993 http-bio-8080-exec-1 2
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:10:24:13 +0530] "GET /lms-webapp/css/bootstrap.min.css HTTP/1.1" 304 - http-bio-8080-exec-6 3
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:10:24:48 +0530] "GET /lms-webapp/ HTTP/1.1" 200 1374 http-bio-8080-exec-1 116
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:10:24:48 +0530] "GET /lms-webapp/signin.css HTTP/1.1" 404 993 http-bio-8080-exec-1 1
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:10:24:51 +0530] "GET /lms-webapp/? HTTP/1.1" 200 1374 http-bio-8080-exec-1 1
+0:0:0:0:0:0:0:1 - - [20/Jul/2018:10:24:51 +0530] "GET /lms-webapp/signin.css HTTP/1.1" 404 993 http-bio-8080-exec-1 1
